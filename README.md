@@ -29,7 +29,7 @@ The dataset has the following columns:
 - `xgboost.ipynb` : Contains the code for training the XGB Regressor on the dataset with default parameters. 
 -  `sample_submission.csv` : Contains the submission file based on the xgboost model.
 - `hybrid_model.ipynb` : Contains the code for the hybrid model
-- ` Other Models/LR_1000.ipynb` : Contains the code for the Linear Regression Model with 10000 max_features of TFIDF
+- ` Other Models/LR_10000.ipynb` : Contains the code for the Linear Regression Model with 10000 max_features of TFIDF
 - `Other Models/LR_5000.ipynb` : Contains the code for the Linear Regression Model with 5000 max_features of TFIDF
 - `Other Models/TF_Multiple_5000.ipynb` : Contains the code for the neural network model with 5000 max_features of TFIDF
 - `Other Models/XGB_20000.ipynb` : Contains the code for the XGB Regressor with 20000 max_features of TFIDF
